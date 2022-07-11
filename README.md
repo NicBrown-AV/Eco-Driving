@@ -2,7 +2,7 @@
 
 This repository will include packages for applications relating to fuel-efficient vehicles.
 
-* Kia Soul
+* Kia Soul EV (DOE) Baseline SOC measurement using Dynamometer (DynoJet Eddy Current). 
   * Measures SOC 
   * Cruise Controller
   * real-time plot
