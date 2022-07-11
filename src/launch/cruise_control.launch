@@ -1,6 +1,0 @@
-<launch>
-  <node name="speed_node" pkg="cruise" type="can_speed_publisher.py" output="screen"/>
-  <node name="cruise_control_node" pkg="cruise" type="kia_cruise_control.py" output="screen"/>
-  <node name="soc_node" pkg="cruise" type="kia_soc.py" output="screen"/>
-  <node name="rt_plot_node" pkg="cruise" type="realtime_plot.py" output="screen"/>
-</launch>
